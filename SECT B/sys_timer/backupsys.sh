@@ -63,3 +63,4 @@ backup_with_verification() {
         return 1
     fi
 }
+
