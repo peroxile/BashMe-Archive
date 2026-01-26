@@ -16,7 +16,7 @@ Each section contains child project folders,each representing an individual auto
 
 
 
-#### SECT B: This includes intermidiate level scripts that handle low-level tasks for more structured workflows. <br>
+#### SECT B: This includes intermediate level scripts that handle low-level tasks for more structured workflows. <br>
 **Examples:**
 - Log monitoring tools
 - Automated installers or setup scripts
@@ -26,7 +26,7 @@ Each section contains child project folders,each representing an individual auto
 
 **Examples:**
 - Server or deployment automation
-- API-driven autoamtion tools
+- API-driven automation tools
 - Data Processing Pipeline
 <br>
 
@@ -51,8 +51,8 @@ bash your_script.
 Contributions are welcome!
 if you'd like to add a new automation script:
 1. Fork the repository 
-2. Create a new folder under the appropariate section(A,B, or C)
-3. Add youur script with a short ``README.md`` expalaining what it does.
+2. Create a new folder under the appropriate section(A,B, or C)
+3. Add your script with a short ``README.md`` explaining what it does.
 4. Submit a pull request 
 
 ### License
