@@ -56,6 +56,7 @@ if you'd like to add a new automation script:
 4. Submit a pull request 
 
 ### License
-This repository is licensd under the [License](./LICENSE)
+This repository is licensed under the [License](./LICENSE)
+
 
 
